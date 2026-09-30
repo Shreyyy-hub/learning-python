@@ -1,5 +1,5 @@
 #weather a student can sit in examination 
-a=int(input("Your current attendence percentage: "))
+a=float(input("Your current attendence percentage: "))
 ReqAtt= 75
 
 if(101>a>=ReqAtt):
