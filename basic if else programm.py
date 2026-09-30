@@ -11,8 +11,12 @@ elif(50<a<=75):
         print("1500/- fine will be charged")
     else:
         print("submit your medical certificate")
+
 elif(100<a):
     print("Invalid entry")
+
+elif a<0:
+    print("invalid entry")
 
 else:
     print("You are not eligible")
