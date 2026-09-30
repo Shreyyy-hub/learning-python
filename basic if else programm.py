@@ -15,4 +15,4 @@ elif(100<a):
     print("Invalid entry")
 
 else:
-    print("You are not elgible")
+    print("You are not eligible")
